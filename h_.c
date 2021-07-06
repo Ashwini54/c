@@ -1,7 +1,9 @@
   
-#include <iostream>
+#include <stdio.h>
+
 int main()
 {
-    std::cout << "GeeksforGeeks";
+    printf("Hello World");
+
     return 0;
 }
